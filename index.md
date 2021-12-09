@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+I plan for this blog to be a showcase 
 
-Maybe say a some things about yourself.
+of some of the projects I have worked
 
-Or maybe what you plan to blog about.
+while I have been studying.
