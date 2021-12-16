@@ -1,1 +1,3 @@
+My business (The Ginger Beard Repair Service) uses ServiceM8 (www.servicem8.com) as the back bone to how we manage our work. ServiceM8 has a REST API available, which allows for some more powerful actions behind the scenes.
 
+The basis for interacting with the API is through http.
