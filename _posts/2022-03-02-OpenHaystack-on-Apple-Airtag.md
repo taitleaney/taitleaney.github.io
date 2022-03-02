@@ -31,7 +31,7 @@ It was possible to combine these outcomes to enable OpenHaystack to run on an Ap
 
 To do this, an Airtag was connected to a Segger J-Link Debugger, which was used as the interface to the nrfjprog programmer. 
 
-The OpenHaystack Zepher main.c file was modified to contain the public key and the zephyr firmware compiled.
+The OpenHaystack Zephyr main.c file was modified to contain the public key and the zephyr firmware compiled.
 This done, the firmware was programmed to the Airtag and the system tested.
 
 ### Pictures:
